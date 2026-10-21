@@ -157,3 +157,12 @@ ka
 არა
 მთარგმნელი <a href="https://www.facebook.com/razmikecg">რაზმიკ ბადალიანი</a>
 original in English
+
+mr
+मराठी
+./mr.html
+मराठी मध्ये खेळुया/वाचूया?
+होय
+नको
+<a target="_blank" href="https://akshayrajeshwar.com/">Akshay Rajeshwar</a> (मराठी भाषांतरण)
+मूळ इंग्रजी स्वरूप
